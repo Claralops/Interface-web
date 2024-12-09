@@ -1,0 +1,16 @@
+.sofa{
+    height: 50px;
+    background-image: url(sofa.jpg);
+    background-size: contain;
+
+}
+.tv{
+    height: 50px;
+    background-image: url(tv.png);
+    background-size: contain;
+}
+.raque{
+    height: 500px;
+    background-image: url(raque.jpeg);
+    background-size: contain;
+}
